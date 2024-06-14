@@ -2,6 +2,14 @@ package HomeWork2;
 import java.util.Scanner;
 
 public class Exercise7 {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Введите число для возведения в степень");
+        int base = scanner.nextInt();
+        System.out.println("Введите  желаемою степень");
+        int exponent = scanner.nextInt();
+        System.out.println(base + " в степени " + exponent + " равно: " + poWer(base, exponent));
+    }
     public static int poWer(int base, int exponent) {
         //Задание 7: Возведение в степень
         //Напишите метод power, который принимает два целых числа base и exponent,
@@ -11,14 +19,5 @@ public class Exercise7 {
             result *= base;
         }
         return result;
-    }
-
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Введите число для возведения в степень");
-        int base = scanner.nextInt();
-        System.out.println("Введите  желаемою степень");
-        int exponent = scanner.nextInt();
-        System.out.println(base + " в степени " + exponent + " равно: " + poWer(base, exponent));
     }
 }
