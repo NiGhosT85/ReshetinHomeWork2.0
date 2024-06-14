@@ -1,8 +1,8 @@
-package Exercise4;
+package HomeWork2;
 
 import java.util.Scanner;
 
-public class isPrime {
+public class Exercise4 {
     //Задание 4.Напишите метод isPrime, который принимает целое число и возвращает true, если число простое,
     // и false в противном случае. Используйте цикл for и условный оператор if.
     public static boolean isPrime(int Number) {

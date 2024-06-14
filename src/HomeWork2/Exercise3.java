@@ -1,8 +1,8 @@
-package Exercise3;
+package HomeWork2;
 
 import java.util.Scanner;
 
-public class maxOfThree {
+public class Exercise3 {
     //Задание 3.Напишите метод maxOfThree, который принимает три целых числа и возвращает наибольшее из них.
     // Используйте условный оператор if.
     public static int maxOfThree(int a, int b, int c) {

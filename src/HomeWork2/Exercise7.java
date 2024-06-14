@@ -1,8 +1,7 @@
-package Exercise7;
-
+package HomeWork2;
 import java.util.Scanner;
 
-public class poWer {
+public class Exercise7 {
     public static int poWer(int base, int exponent) {
         //Задание 7: Возведение в степень
         //Напишите метод power, который принимает два целых числа base и exponent,

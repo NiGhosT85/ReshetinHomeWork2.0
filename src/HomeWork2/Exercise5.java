@@ -1,14 +1,22 @@
-package Exercise5;
+package HomeWork2;
 
 import java.util.Scanner;
 
-public class sumArray {
-    //Напишите метод sumArray, который принимает массив целых чисел и возвращает сумму его элементов.
+public class Exercise5 {
+    //Задание 5.Напишите метод sumArray, который принимает массив целых чисел и возвращает сумму его элементов.
     // Используйте цикл for.
     public static int sumArray(int[] array) {
         int sum = 0;
         for (int i = 0; i < array.length; i++) {
             sum += array[i];
+        }
+        return sum;
+    }
+    // или :
+    public static int sumArray2(int[] array) {
+        int sum = 0;
+        for (int number : array) {
+            sum += number;
         }
         return sum;
     }

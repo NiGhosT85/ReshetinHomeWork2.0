@@ -1,8 +1,8 @@
-package Exercise9;
+package HomeWork2;
 
 import java.util.Scanner;
 
-public class contains {
+public class Exercise9 {
     //Задание 9.Напишите метод contains, который принимает массив целых чисел и целое число target, и возвращает true,
     // если массив содержит это число, и false в противном случае. Используйте цикл for.
     public static boolean contains(int[] numbers, int target) {

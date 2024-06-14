@@ -1,6 +1,6 @@
-package Exercise8;
+package HomeWork2;
 
-public class minMax {
+public class Exercise8 {
     //Задание 8: Минимум и максимум в массиве
     //Напишите метод minMax, который принимает массив целых чисел и возвращает массив из двух элементов:
     // минимального и максимального значений в данном массиве.
@@ -25,5 +25,4 @@ public class minMax {
         System.out.println("Минимальное значение: " + result[0]);
         System.out.println("Максимальное значение: " + result[1]);
     }
-
 }
