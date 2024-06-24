@@ -1,9 +1,9 @@
 package HomeWork3.Work_and_Class;
 
 public class Worker {
-    String name;
-    String lastName;
-    String profession;
+    private String name;
+    private String lastName;
+    private String profession;
 
     public Worker(String name, String lastName, String profession) {
         this.name = name;

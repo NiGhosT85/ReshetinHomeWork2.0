@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcb37c4b-bb9d-48c7-8e55-bff5d9345fb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Work_and_Class/Accountant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Work_and_Class/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Work_and_Class/Engineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Work_and_Class/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Work_and_Class/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Work_and_Class/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dcb37c4b-bb9d-48c7-8e55-bff5d9345fb3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,7 +126,7 @@
       <workItem from="1718282099770" duration="29570000" />
       <workItem from="1718382459377" duration="8685000" />
       <workItem from="1718619310684" duration="1408000" />
-      <workItem from="1719239232260" duration="641000" />
+      <workItem from="1719239232260" duration="832000" />
     </task>
     <task id="LOCAL-00001" summary="Домашняя работа №2 13.06.24">
       <created>1718312618551</created>
@@ -157,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718391681458</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Домашняя работа №3.">
+      <created>1719239925326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719239925326</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +166,7 @@
     <MESSAGE value="Домашняя работа №2 13.06.24" />
     <MESSAGE value="Домашняя работа №2 перезалил 14.06.24,&#10;скорректировал папки, переименовал классы,&#10;добавил папку домашней работы №1 с неудачного репозитория." />
     <MESSAGE value="Домашняя работа №2 перезалил 14.06.24,&#10;скорректировал папки, переименовал классы,&#10;перенес методы под вниз кода,&#10;добавил папку домашней работы №1 с неудачного репозитория." />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа №2 перезалил 14.06.24,&#10;скорректировал папки, переименовал классы,&#10;перенес методы под вниз кода,&#10;добавил папку домашней работы №1 с неудачного репозитория." />
+    <MESSAGE value="Домашняя работа №3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа №3." />
   </component>
 </project>
