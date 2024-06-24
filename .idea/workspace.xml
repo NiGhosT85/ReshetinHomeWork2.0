@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcb37c4b-bb9d-48c7-8e55-bff5d9345fb3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Work_and_Class/Accountant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Work_and_Class/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Work_and_Class/Engineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Work_and_Class/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Work_and_Class/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Work_and_Class/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Exercise10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/Exercise10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/Exercise3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/Exercise4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/Exercise5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Exercise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/Exercise7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Exercise8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/Exercise8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork2/Exercise9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork2/Exercise9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2hlxX6FlaCN0gNMOsY1sYluBiLt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/NiGh(os)T/IdeaProjects/Reshetin_HW/Home_work1",
+    "last_opened_file_path": "C:/Users/NiGh(os)T/IdeaProjects/ReshetinHW2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,10 +52,23 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercise10">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Exercise10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork2.Exercise10" />
       <module name="ReshetinHW2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork3.Work_and_Class.Main" />
+      <module name="ReshetinHW2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork3.Work_and_Class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -84,19 +99,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maxOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise3.maxOfThree" />
-      <module name="ReshetinHW2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="minMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercise8.minMax" />
       <module name="ReshetinHW2" />
@@ -112,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Exercise10" />
         <item itemvalue="Application.contains" />
         <item itemvalue="Application.minMax" />
         <item itemvalue="Application.isPrime" />
-        <item itemvalue="Application.maxOfThree" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +132,9 @@
       <updated>1718182503917</updated>
       <workItem from="1718182504919" duration="3029000" />
       <workItem from="1718282099770" duration="29570000" />
-      <workItem from="1718382459377" duration="7810000" />
+      <workItem from="1718382459377" duration="8685000" />
+      <workItem from="1718619310684" duration="1408000" />
+      <workItem from="1719239232260" duration="641000" />
     </task>
     <task id="LOCAL-00001" summary="Домашняя работа №2 13.06.24">
       <created>1718312618551</created>
@@ -146,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718387942387</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Домашняя работа №2 перезалил 14.06.24,&#10;скорректировал папки, переименовал классы,&#10;перенес методы под вниз кода,&#10;добавил папку домашней работы №1 с неудачного репозитория.">
+      <created>1718391681458</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718391681458</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +166,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Домашняя работа №2 13.06.24" />
     <MESSAGE value="Домашняя работа №2 перезалил 14.06.24,&#10;скорректировал папки, переименовал классы,&#10;добавил папку домашней работы №1 с неудачного репозитория." />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа №2 перезалил 14.06.24,&#10;скорректировал папки, переименовал классы,&#10;добавил папку домашней работы №1 с неудачного репозитория." />
+    <MESSAGE value="Домашняя работа №2 перезалил 14.06.24,&#10;скорректировал папки, переименовал классы,&#10;перенес методы под вниз кода,&#10;добавил папку домашней работы №1 с неудачного репозитория." />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа №2 перезалил 14.06.24,&#10;скорректировал папки, переименовал классы,&#10;перенес методы под вниз кода,&#10;добавил папку домашней работы №1 с неудачного репозитория." />
   </component>
 </project>
